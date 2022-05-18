@@ -306,6 +306,7 @@ public class ticTacToe {
      break;
     }
     moveLocation();
+
     showBoard();
     winner(userTurn);
     if (exitCode == '1') {
