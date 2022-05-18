@@ -1,6 +1,7 @@
 package com.bridgelabz.tictactoe;
 
 public class ticTacToe {
+
  public static char[] gameArray = new char[10];
 
  public static void ticTacToe() {
